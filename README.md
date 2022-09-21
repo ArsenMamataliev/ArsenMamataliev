@@ -5,8 +5,7 @@ I make web and single-page applications. Current time I'm writing pet-projects, 
 JavaScript ES6
 React
 Redux, Redux Toolkit.
-Scss/Sass, Bootstrap, Material UI, StyledComponent
-Axios Requests
+Scss/Sass, Bootstrap, Material UI,
 TypeScript
 Git/GitHub
 
